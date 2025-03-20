@@ -4,7 +4,7 @@ This project is a simple web application that allows users to search for and vie
 
 ## Hosted Link
 
-[Phone Hunting API Project]()
+[Phone Hunting API Project](https://premgchavan.github.io/Phone-Hunting-API/)
 
 ## Overview
 
